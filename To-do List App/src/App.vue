@@ -13,7 +13,6 @@ export default {
   },
 };
 </script>
-``
 <style>
 @import 'tailwindcss/tailwind.css';
 </style>
